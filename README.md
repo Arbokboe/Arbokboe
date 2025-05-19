@@ -4,9 +4,9 @@
 
 Обо мне
 Меня зовут Константин, мне 29 лет, я из прекрасного города Казань.
-
-[![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:ваш.email@example.com)
-
+<p align="center">
+[![Email Icon](https://skillicons.dev/icons?i=gmail)](konstantin.ohotnikov29091995@gmail.com)
+</p>
 Образование
 - Окончил Казанский кооперативный институт в 2021 году
 - Сейчас учусь и улучшаю свои навыки кодинга в School 21 с 2023 года
