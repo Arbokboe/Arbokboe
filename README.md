@@ -28,5 +28,6 @@
 - В 2025 собираюсь попасть на стажировку в компанию sber на специальность java backend dev
 
 Мой технический стэк<br>
+<br>
 [![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,git)](https://skillicons.dev)
 
