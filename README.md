@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Gif/SOrD.gif" alt="гифка" width="30%"/>
 </p> 
-
+Свзяь со мной по: 
 <div style="text-align: center;">
   <a href="mailto:konstantin.ohotnikov29091995@gmail.com">
     <img src="Gif/gamil.png" alt="Gmail" width="30"/> </a>
