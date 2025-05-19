@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Gif/SOrD.gif" alt="гифка" width="80%"/>
+  <img src="Gif/SOrD.gif" alt="гифка" width="30%"/>
 </p>
