@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
   <a href="mailto:konstantin.ohotnikov29091995@gmail.com">
-    <img src="Gif/gmamil" alt="Gmail" width="30"/> </a>
+    <img src="Gif/gamil.png" alt="Gmail" width="30"/> </a>
   <a href="https://t.me/ВАШ_НИКНЕЙМ_В_ТЕЛЕГРАМ"> <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="30"/>
   </a>
 </div>
