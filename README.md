@@ -2,10 +2,13 @@
   <img src="Gif/SOrD.gif" alt="гифка" width="30%"/>
 </p> 
 
+<a href="mailto:konstantin.ohotnikov29091995@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="max-width: 40px;"/>
+  <a href="https://t.me/">
+  <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="30"/> </a>
+
 Обо мне
 Меня зовут Константин, мне 29 лет, я из прекрасного города Казань.
-<a href="mailto:konstantin.ohotnikov29091995@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="max-width: 40px;"/> </a>
 Образование
 - Окончил Казанский кооперативный институт в 2021 году
 - Сейчас учусь и улучшаю свои навыки кодинга в School 21 с 2023 года
