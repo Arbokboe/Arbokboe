@@ -27,6 +27,6 @@
 - Работал в торговой сети на должности ревизора по проверке бухгалтерской отчетности
 - В 2025 собираюсь попасть на стажировку в компанию sber на специальность java backend dev
 
-Мой технический стэк
+Мой технический стэк<br>
 [![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,git)](https://skillicons.dev)
 
