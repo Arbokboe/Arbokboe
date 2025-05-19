@@ -5,7 +5,7 @@
 Обо мне
 Меня зовут Константин, мне 29 лет, я из прекрасного города Казань.
 
-[ваш.email@example.com](mailto:ваш.email@example.com)
+[![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:ваш.email@example.com)
 
 Образование
 - Окончил Казанский кооперативный институт в 2021 году
@@ -22,5 +22,5 @@
 -В 2025 собираюсь попасть на стажировку в компанию sber на специальность java backend dev
 
 Мой технический стэк
-[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,aws,git)](https://skillicons.dev)
+[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,git)](https://skillicons.dev)
 
