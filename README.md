@@ -13,5 +13,5 @@
 Интересы 
 
 Мой технический стэк 
-[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,sql,docker,aws,git)](https://skillicons.dev)
+[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,posgresSql,docker,aws,git)](https://skillicons.dev)
 
