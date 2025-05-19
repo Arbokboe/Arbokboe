@@ -2,10 +2,12 @@
   <img src="Gif/SOrD.gif" alt="гифка" width="30%"/>
 </p> 
 
-<a href="mailto:konstantin.ohotnikov29091995@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="max-width: 40px;"/> </a>
-  <a href="https://t.me/">
-  <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="30"/> </a>
+<div style="text-align: center;">
+  <a href="mailto:konstantin.ohotnikov29091995@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30"/> </a>
+  <a href="https://t.me/ВАШ_НИКНЕЙМ_В_ТЕЛЕГРАМ"> <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="30"/>
+  </a>
+</div>
 
 Обо мне
 Меня зовут Константин, мне 29 лет, я из прекрасного города Казань.
