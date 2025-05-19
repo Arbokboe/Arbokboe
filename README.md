@@ -2,14 +2,14 @@
   <img src="Gif/SOrD.gif" alt="гифка" width="30%"/>
 </p> 
 Свзяь со мной по: 
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
   <a href="mailto:konstantin.ohotnikov29091995@gmail.com">
     <img src="Gif/gamil.png" alt="Gmail" width="30"/>
   </a>
   <a href="https://t.me/konstantin695">
     <img src="Gif/telegramm.png" alt="Telegram" width="30"/>
   </a>
-</div> -->
+</div>
 
 Обо мне
 Меня зовут Константин, мне 29 лет, я из прекрасного города Казань.
