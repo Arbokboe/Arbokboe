@@ -39,7 +39,7 @@
 
 ## Мой Технический Стек 💾
 
-[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,git)](https://skillicons.dev)
+[![Мои навыки](https://skillicons.dev/icons?i=java,spring,linux,idea,postgres,docker,git,rabbitmq)](https://skillicons.dev)
 
 ---
 
